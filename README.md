@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an aspiring Security Engineer. I haven't decid
 - Operating System Hardening (Linux & Windows)
 - Cybersecurity Tools and Scripting
 
-## 🛠️ Technologies & Tools I have interaction With
+## 🛠️ Technologies & Tools I have had Experience With
 
 - **Security Tools**: Nmap, Wireshark
 - **Operating Systems**: Linux (Kali, Ubuntu), Windows, macOS
