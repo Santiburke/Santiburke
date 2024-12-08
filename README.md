@@ -56,10 +56,10 @@ Welcome to my GitHub profile! I'm an aspiring Security Engineer. I haven't decid
 
 ## 🧑‍💻 Contributions & Collaboration
 
-I am open to contribute to anthing Cybersecurity and or cloud.
+- I am open to contributing to anything Cybersecurity and or cloud.
 ---
 
 ### 🚨 A Few Words from Me:
 
-> "Security is not only a career path for me, its a ritual, its a state of mine." – KBurke
+> "Security is not only a career path for me, its a ritual, its a state of mind." – KBurke
 
