@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm an aspiring Security Engineer. I haven't decid
 
 ## 📫 Let's Connect
 
-- 🌐 **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 🌐 **LinkedIn**: [linkedin.com/in/yourname](https://www.linkedin.com/in/kevin-b-a0046970/)
 
 
 ## 📄 Featured Blog Posts & Resources
